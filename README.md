@@ -73,4 +73,4 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 ```
 </details>
 
-<img src="https://pbs.twimg.com/media/FpWfy4yXoAEHy1I?format=jpg&name=large" href="#" width="30%">
+<p align="center"><img src="https://pbs.twimg.com/media/FpWfy4yXoAEHy1I?format=jpg&name=large" href="#" width="30%"></p>
