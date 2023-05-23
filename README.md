@@ -73,4 +73,18 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 ```
 </details>
 
-<p align="center"><img src="https://pbs.twimg.com/media/FpWfy4yXoAEHy1I?format=jpg&name=large" href="#" width="30%"></p>
+<p align="center">
+  <a href="#"><img src="https://pbs.twimg.com/media/FpWfy4yXoAEHy1I?format=jpg&name=large" width="30%"></a>
+</p>
+
+---
+
+<p align="center">
+  <b>Check these hot repos 🥵‎️‍🔥</b><br><br>
+  <a href="https://github.com/kitabisa/teler-waf">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kitabisa&repo=teler-waf&theme=transparent">
+  </a>
+  <a href="https://github.com/kitabisa/mubeng">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kitabisa&repo=mubeng&theme=transparent">
+  </a>
+</p>
