@@ -73,7 +73,7 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 ```
 </details>
 
-<a href="#"><img src="https://pbs.twimg.com/media/FpWfy4yXoAEHy1I?format=jpg&name=large" align="right" width="35%"></a>
+<a href="#"><img src="https://pbs.twimg.com/media/FpWfy4yXoAEHy1I?format=jpg&name=large" align="right" width="40%"></a>
 
 > [!TIP]
 > [![Spotify - dw1](https://img.shields.io/badge/Spotify-dw1-2ea44f?logo=spotify)](https://open.spotify.com/artist/5wuq9dt3Z9OcshIezGc4iI)<br>
