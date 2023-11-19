@@ -73,6 +73,11 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 ```
 </details>
 
+[![last - played](https://img.shields.io/badge/last-played-2ea44f?logo=spotify)](https://spotify-github-profile.vercel.app/api/view?uid=jp55czt2a9gy4tnhufh9qdza4&redirect=true)<br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jp55czt2a9gy4tnhufh9qdza4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=jp55czt2a9gy4tnhufh9qdza4&redirect=true)
+
+---
+
 <p align="center">
   <a href="#"><img src="https://pbs.twimg.com/media/FpWfy4yXoAEHy1I?format=jpg&name=large" width="30%"></a>
 </p>
