@@ -83,12 +83,10 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 
 ---
 
-<p align="left">
-  <b>Check these hot repos 🥵‎️‍🔥</b><br><br>
-  <a href="https://github.com/kitabisa/teler-waf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kitabisa&repo=teler-waf&theme=transparent">
-  </a>
-  <a href="https://github.com/kitabisa/mubeng">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kitabisa&repo=mubeng&theme=transparent">
-  </a>
-</p>
+> [!NOTE]
+> **Check these hot repos 🥵‎️‍🔥**
+>
+> [![teler-waf](https://github-readme-stats.vercel.app/api/pin/?username=kitabisa&repo=teler-waf&theme=transparent)](https://github.com/kitabisa/teler-waf)<br>
+> [![teler-proxy](https://github-readme-stats.vercel.app/api/pin/?username=kitabisa&repo=teler-proxy&theme=transparent)](https://github.com/kitabisa/teler-proxy)<br>
+> [![noizy](https://github-readme-stats.vercel.app/api/pin/?username=dwisiswant0&repo=noizy&theme=transparent)](https://github.com/dwisiswant0/noizy)<br>
+> [![mubeng](https://github-readme-stats.vercel.app/api/pin/?username=kitabisa&repo=mubeng&theme=transparent)](https://github.com/kitabisa/mubeng)<br>
