@@ -73,6 +73,8 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 ```
 </details>
 
+<a href="#"><img src="https://pbs.twimg.com/media/FpWfy4yXoAEHy1I?format=jpg&name=large" align="right" width="35%"></a>
+
 > [!TIP]
 > [![Spotify - dw1](https://img.shields.io/badge/Spotify-dw1-2ea44f?logo=spotify)](https://open.spotify.com/artist/5wuq9dt3Z9OcshIezGc4iI)<br>
 > <sub>Last played:</sub><br>
@@ -81,13 +83,7 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 
 ---
 
-<p align="center">
-  <a href="#"><img src="https://pbs.twimg.com/media/FpWfy4yXoAEHy1I?format=jpg&name=large" width="30%"></a>
-</p>
-
----
-
-<p align="center">
+<p align="left">
   <b>Check these hot repos 🥵‎️‍🔥</b><br><br>
   <a href="https://github.com/kitabisa/teler-waf">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kitabisa&repo=teler-waf&theme=transparent">
