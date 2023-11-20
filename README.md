@@ -89,3 +89,11 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 > [![mubeng](https://github-readme-stats.vercel.app/api/pin/?username=kitabisa&repo=mubeng&theme=transparent)](https://github.com/kitabisa/mubeng)
 > [![teler-waf](https://github-readme-stats.vercel.app/api/pin/?username=kitabisa&repo=teler-waf&theme=transparent)](https://github.com/kitabisa/teler-waf)
 > [![noizy](https://github-readme-stats.vercel.app/api/pin/?username=dwisiswant0&repo=noizy&theme=transparent)](https://github.com/dwisiswant0/noizy)
+
+---
+
+> [!IMPORTANT]
+> If you've made some impact using my tools or just want to encourage me to continue creating stuff, please consider giving back or supporting my efforts and helping it grow by buy me a cup of coffee - but only if you're definitely able to! 😊🎉
+>
+> [![GitHub Sponsors - dwisiswant0](https://img.shields.io/badge/GitHub_Sponsors-dwisiswant0-EA4AAA?logo=githubsponsors)](https://github.com/sponsors/dwisiswant0)
+
