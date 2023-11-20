@@ -93,7 +93,7 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 ---
 
 > [!IMPORTANT]
-> If you've made some impact using my tools or just want to encourage me to continue creating stuff, please consider giving back or supporting my efforts and helping it grow by buy me a cup of coffee - but only if you're definitely able to! 😊🎉
+> If you've made some impact using my tools or just want to encourage me to continue creating stuff, please consider giving back or supporting my efforts and helping it grow by buy me a cup of coffee — _but only if you're definitely able to_! 😊🎉
 >
 > [![GitHub Sponsors - dwisiswant0](https://img.shields.io/badge/GitHub_Sponsors-dwisiswant0-EA4AAA?logo=githubsponsors)](https://github.com/sponsors/dwisiswant0)
 
