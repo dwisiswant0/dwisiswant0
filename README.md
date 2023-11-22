@@ -95,7 +95,7 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 > [!IMPORTANT]
 > If you've made some impact using my tools or just want to encourage me to continue creating stuff, please consider giving back or supporting my efforts and helping it grow by buy me a cup of coffee — _but only if you're definitely able to_! 😊🎉
 >
-> [![GitHub Sponsors - dwisiswant0](https://img.shields.io/badge/GitHub_Sponsors-dwisiswant0-EA4AAA?logo=githubsponsors)](https://github.com/sponsors/dwisiswant0) [![PayPal - dw1s](https://img.shields.io/badge/PayPal-dw1s-informational?logo=paypal)](https://paypal.me/dw1s) [![Buy Me a Coffee - dw1](https://img.shields.io/badge/Buy_Me_a_Coffee-dw1-FFDD00?logo=buymeacoffee)](https://www.buymeacoffee.com/dw1) [![Trakteer - dwisiswant0](https://custom-icon-badges.demolab.com/badge/Trakteer-dwisiswant0-be1e2d.svg?logo=trakteer-red)](https://trakteer.id/dwisiswant0/tip)
+> [![GitHub Sponsors - dwisiswant0](https://img.shields.io/badge/GitHub_Sponsors-dwisiswant0-EA4AAA?logo=githubsponsors)](https://github.com/sponsors/dwisiswant0) [![Buy Me a Coffee - dw1](https://img.shields.io/badge/Buy_Me_a_Coffee-dw1-FFDD00?logo=buymeacoffee)](https://www.buymeacoffee.com/dw1) [![Trakteer - dwisiswant0](https://custom-icon-badges.demolab.com/badge/Trakteer-dwisiswant0-be1e2d.svg?logo=trakteer-red)](https://trakteer.id/dwisiswant0/tip) [![Ko-fi - dwisiswant0](https://img.shields.io/badge/Ko--fi-dwisiswant0-FF5E5B?logo=kofi)](https://ko-fi.com/dwisiswant0) [![PayPal - dw1s](https://img.shields.io/badge/PayPal-dw1s-informational?logo=paypal)](https://paypal.me/dw1s)
 >
 > ---
 >
