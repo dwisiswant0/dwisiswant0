@@ -1,5 +1,5 @@
 <details>
-<summary>:lock: PGP Fingerprint: <code>3EFE F626 BA6E A31D 037F 77AA D192 CC08 1616 30BD</code></summary>
+<summary>🔐 PGP Fingerprint: <code>3EFE F626 BA6E A31D 037F 77AA D192 CC08 1616 30BD</code></summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
