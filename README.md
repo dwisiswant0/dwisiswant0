@@ -84,11 +84,28 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 ---
 
 > [!NOTE]
-> **Check these hot repos 🥵‎️‍🔥**
+> **Current works**:
 >
-> [![mubeng](https://github-readme-stats.vercel.app/api/pin/?username=mubeng&repo=mubeng&theme=transparent)](https://github.com/mubeng/mubeng)
-> [![teler-waf](https://github-readme-stats.vercel.app/api/pin/?username=kitabisa&repo=teler-waf&theme=transparent)](https://github.com/kitabisa/teler-waf)
-> [![noizy](https://github-readme-stats.vercel.app/api/pin/?username=dwisiswant0&repo=noizy&theme=transparent)](https://github.com/dwisiswant0/noizy)
+> * [**x**](https://github.com/dwisiswant0/x):
+>   A collection of Go hacks maintained by yours truly.
+>
+> * [**rapidhash**](https://github.com/dwisiswant0/rapidhash):
+>   a Go implementation of the rapidhash V3 algorithm - a very fast, high quality, platform-independent hashing algorithm.
+>
+> * [**safemath**](https://github.com/dwisiswant0/safemath):
+>   Safe, generic, and robust integer math library for Go.
+>
+> * [**mmapfile**](https://github.com/dwisiswant0/mmapfile):
+>   a fast Go mmap library with `*os.File`-compatible I/O, zero-copy, up to 50x+ faster.
+>
+> * [**rm-secure**](https://github.com/dwisiswant0/rm-secure):
+>   A secure drop-in replacement for rm(1) with multi-pass data wiping algorithms to prevent data recovery.
+>
+> * [**godoc**](https://github.com/dwisiswant0/godoc):
+>   go doc, glamorous: ✨ terminal chic, 🤖 assistant-ready, and 📦 programmable.
+>
+> * [**fastdns**](https://github.com/dwisiswant0/fastdns):
+>   DNS at ludicrous speed for Go, powered by XDP sockets. [EXPERIMENTAL]
 
 ---
 
