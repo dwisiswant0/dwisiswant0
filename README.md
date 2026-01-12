@@ -84,7 +84,7 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 ---
 
 > [!NOTE]
-> **Recent works**:
+> **Recent work**:
 >
 > * [**x**](https://github.com/dwisiswant0/x):
 >   A collection of Go hacks maintained by yours truly.
