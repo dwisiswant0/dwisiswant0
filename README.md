@@ -89,6 +89,9 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 > * [**x**](https://github.com/dwisiswant0/x):
 >   A collection of Go hacks maintained by yours truly.
 >
+> * [**fastcache**](https://github.com/dwisiswant0/fastcache):
+>   A fast, generic, thread-safe cache for Go with FIFO eviction.
+> 
 > * [**rapidhash**](https://github.com/dwisiswant0/rapidhash):
 >   a Go implementation of the rapidhash V3 algorithm - a very fast, high quality, platform-independent hashing algorithm.
 >
