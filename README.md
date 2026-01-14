@@ -86,29 +86,27 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 > [!NOTE]
 > **Recent work**:
 >
-> * [**x**](https://github.com/dwisiswant0/x):
->   A collection of Go hacks maintained by yours truly.
+> * [**x**](https://github.com/dwisiswant0/x): A collection of Go hacks maintained by yours truly.
+> * [**fastcache**](https://github.com/dwisiswant0/fastcache): A fast, generic, thread-safe cache for Go with FIFO eviction.
+> * [**rapidhash**](https://github.com/dwisiswant0/rapidhash): a Go implementation of the rapidhash V3 algorithm - a very fast, high quality, platform-independent hashing algorithm.
+> * [**safemath**](https://github.com/dwisiswant0/safemath): Safe, generic, and robust integer math library for Go.
+> * [**mmapfile**](https://github.com/dwisiswant0/mmapfile): a fast Go mmap library with `*os.File`-compatible I/O, zero-copy, up to 50x+ faster.
+> * [**rm-secure**](https://github.com/dwisiswant0/rm-secure): A secure drop-in replacement for rm(1) with multi-pass data wiping algorithms to prevent data recovery.
+> * [**godoc**](https://github.com/dwisiswant0/godoc): go doc, glamorous: ✨ terminal chic, 🤖 assistant-ready, and 📦 programmable.
+> * [**fastdns**](https://github.com/dwisiswant0/fastdns): DNS at ludicrous speed for Go, powered by XDP sockets. [EXPERIMENTAL]
+
+---
+
+> [!WARNING]
+> **You might like**:
+> * [**teler-waf**](https://github.com/teler-sh/teler-waf): protect yo local web services from OWASP Top 10 threats, known vulnerabilities, malicious actors, botnets, unwanted crawlers, and brute force attacks.
+> * [**mubeng**](https://github.com/mubeng/mubeng): An incredibly fast proxy checker & IP rotator with ease.
+> * [**sebel**](https://github.com/teler-sh/sebel): Checks SSL/TLS certificates for potential malicious connections by detecting and blocking certificates used by botnet command and control (C&C) servers.
+> * [**unch**](https://github.com/dwisiswant0/unch): Hides message with invisible Unicode characters.
+> * [**noizy**](https://github.com/dwisiswant0/noizy): A drop-in replacement to Apple Hearing - Background Sounds with over 30+ available sounds.
+> * [**ngocok**](https://github.com/dwisiswant0/ngocok): ngrok Collaborator Link — yet another Burp Collaborator alternative for free with ngrok.
 >
-> * [**fastcache**](https://github.com/dwisiswant0/fastcache):
->   A fast, generic, thread-safe cache for Go with FIFO eviction.
-> 
-> * [**rapidhash**](https://github.com/dwisiswant0/rapidhash):
->   a Go implementation of the rapidhash V3 algorithm - a very fast, high quality, platform-independent hashing algorithm.
->
-> * [**safemath**](https://github.com/dwisiswant0/safemath):
->   Safe, generic, and robust integer math library for Go.
->
-> * [**mmapfile**](https://github.com/dwisiswant0/mmapfile):
->   a fast Go mmap library with `*os.File`-compatible I/O, zero-copy, up to 50x+ faster.
->
-> * [**rm-secure**](https://github.com/dwisiswant0/rm-secure):
->   A secure drop-in replacement for rm(1) with multi-pass data wiping algorithms to prevent data recovery.
->
-> * [**godoc**](https://github.com/dwisiswant0/godoc):
->   go doc, glamorous: ✨ terminal chic, 🤖 assistant-ready, and 📦 programmable.
->
-> * [**fastdns**](https://github.com/dwisiswant0/fastdns):
->   DNS at ludicrous speed for Go, powered by XDP sockets. [EXPERIMENTAL]
+> [.𖥔 ݁ ˖ more ˚.⋆](https://github.com/dwisiswant0?tab=repositories&q=&type=source&language=&sort=stargazers)
 
 ---
 
