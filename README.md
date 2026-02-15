@@ -87,6 +87,7 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 > **Recent work**:
 >
 > * [**x**](https://github.com/dwisiswant0/x): A collection of Go hacks maintained by yours truly.
+> * [**sandboxec**](https://github.com/dwisiswant0/sandboxec): A lightweight command sandbox for Linux, built on Landlock.
 > * [**fastcache**](https://github.com/dwisiswant0/fastcache): A fast, generic, thread-safe cache for Go with FIFO eviction.
 > * [**rapidhash**](https://github.com/dwisiswant0/rapidhash): a Go implementation of the rapidhash V3 algorithm - a very fast, high quality, platform-independent hashing algorithm.
 > * [**safemath**](https://github.com/dwisiswant0/safemath): Safe, generic, and robust integer math library for Go.
