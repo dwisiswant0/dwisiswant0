@@ -87,7 +87,6 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 > **Recent work**:
 >
 > * [**x**](https://github.com/dwisiswant0/x): A collection of Go hacks maintained by yours truly.
-> * [**sandboxec**](https://github.com/dwisiswant0/sandboxec): A lightweight command sandbox for Linux, built on Landlock.
 > * [**fastcache**](https://github.com/dwisiswant0/fastcache): A fast, generic, thread-safe cache for Go with FIFO eviction.
 > * [**rapidhash**](https://github.com/dwisiswant0/rapidhash): a Go implementation of the rapidhash V3 algorithm - a very fast, high quality, platform-independent hashing algorithm.
 > * [**safemath**](https://github.com/dwisiswant0/safemath): Safe, generic, and robust integer math library for Go.
@@ -100,6 +99,7 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 
 > [!WARNING]
 > **You might like**:
+> * [**sandboxec**](https://github.com/sandboxec/sandboxec): A lightweight command sandbox for Linux, secure-by-default, built on Landlock.
 > * [**teler-waf**](https://github.com/teler-sh/teler-waf): protect yo local web services from OWASP Top 10 threats, known vulnerabilities, malicious actors, botnets, unwanted crawlers, and brute force attacks.
 > * [**mubeng**](https://github.com/mubeng/mubeng): An incredibly fast proxy checker & IP rotator with ease.
 > * [**sebel**](https://github.com/teler-sh/sebel): Checks SSL/TLS certificates for potential malicious connections by detecting and blocking certificates used by botnet command and control (C&C) servers.
