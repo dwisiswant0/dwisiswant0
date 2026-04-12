@@ -88,7 +88,7 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 >
 > * [**x**](https://github.com/dwisiswant0/x): A collection of Go hacks maintained by yours truly.
 > * [**richglob**](https://github.com/dwisiswant0/richglob): brings Bash-style globbing to your filesystem matching.
-> * [**fastcache**](https://github.com/dwisiswant0/fastcache): A fast, generic, thread-safe cache for Go with FIFO eviction.
+> * [**fastcache**](https://github.com/dwisiswant0/fastcache): A fast, generic, thread-safe cache for Go.
 > * [**rapidhash**](https://github.com/dwisiswant0/rapidhash): a Go implementation of the rapidhash V3 algorithm - a very fast, high quality, platform-independent hashing algorithm.
 > * [**safemath**](https://github.com/dwisiswant0/safemath): Safe, generic, and robust integer math library for Go.
 > * [**mmapfile**](https://github.com/dwisiswant0/mmapfile): a fast Go mmap library with `*os.File`-compatible I/O, zero-copy, up to 50x+ faster.
