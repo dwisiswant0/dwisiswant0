@@ -75,7 +75,8 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 
 
 <!-- <a href="#"><img src="https://pbs.twimg.com/media/FpWfy4yXoAEHy1I?format=jpg&name=large" align="right" width="40%"></a> -->
-<a href="#"><img src="https://github.com/user-attachments/assets/4ea0d775-8ceb-4d39-b9ec-1c5facc09db9" align="right" width="60%"></a>
+<a href="#"><img src="https://github.com/user-attachments/assets/cca5dd5d-bacc-42f2-a236-53ce859186be" align="right" width="60%"></a>https://github.com/user-attachments/assets/cca5dd5d-bacc-42f2-a236-53ce859186be
+
 
 > [!TIP]
 > [![Spotify - dw1](https://img.shields.io/badge/Spotify-dw1-2ea44f?logo=spotify)](https://open.spotify.com/artist/5wuq9dt3Z9OcshIezGc4iI)<br>
