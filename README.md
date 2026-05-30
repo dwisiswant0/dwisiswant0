@@ -90,6 +90,7 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 > **Recent work**:
 >
 > * [**x**](https://github.com/dwisiswant0/x): A collection of Go hacks maintained by yours truly.
+> * [**yyjson**](https://github.com/dwisiswant0/yyjson): yyjson for Go, transpiled, CGo-free, 2-4x faster.
 > * [**semctx**](https://github.com/dwisiswant0/semctx): Semantic code context for AI agents.
 > * [**richglob**](https://github.com/dwisiswant0/richglob): brings Bash-style globbing to your filesystem matching.
 > * [**fastcache**](https://github.com/dwisiswant0/fastcache): A fast, generic, thread-safe cache for Go.
