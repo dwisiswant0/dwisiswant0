@@ -90,6 +90,7 @@ uDU6cbA4HflnGe2Zkt2PMXSitj4PsDUc8rUVNfyCBfj/mz/YjVMtVmcX
 > **Recent work**:
 >
 > * [**x**](https://github.com/dwisiswant0/x): A collection of Go hacks maintained by yours truly.
+> * [**mike**](https://github.com/dwisiswant0/mike): a fast and compact post-quantum non-interactive key exchange for Go.
 > * [**fasteval**](https://github.com/dwisiswant0/fasteval): A fast expression-first evaluator and raw string-template engine for Go.
 > * **lib**{[**zstd**](https://github.com/dwisiswant0/zstd),[**elf**](https://github.com/dwisiswant0/elf),[**bpf**](https://github.com/dwisiswant0/bpf),[**xdp**](https://github.com/dwisiswant0/xdp)} for Go, transpiled, CGo-free.
 > * [**yyjson**](https://github.com/dwisiswant0/yyjson): yyjson for Go, transpiled, CGo-free, 2-4x faster.
